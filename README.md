@@ -6,3 +6,6 @@ Solutions to this problem list: https://leetcode.com/studyplan/leetcode-75/
 
 ### `/TopSWE100`
 Solutions to this problem list: https://topswe.com/
+
+### `/Blind75`
+Solutions to the classic blind 75 list, which is the first half of NeetCode 150: https://neetcode.io/practice
